@@ -17,7 +17,7 @@
     <string name="level_medium">Medium</string>
     <string name="level_hard">Hard</string>
     <string name="question_mark">\?</string>
-    <string name="progress_answers">Right answers: %s (minimum %s)</string>
+    <string name="right_answers">Right answers: %s (minimum %s)</string>
     <string name="game_over">Game is over</string>
     <string name="required_score">Required score: %s</string>
     <string name="score_answers">Your score answers: %s</string>

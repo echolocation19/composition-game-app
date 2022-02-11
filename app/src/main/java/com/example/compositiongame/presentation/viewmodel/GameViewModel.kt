@@ -89,7 +89,7 @@ class GameViewModel(
         val percent = calculatePercentOfRightAnswers()
         _percentOfRightAnswers.value = percent
         _progressAnswers.value = String.format(
-            context.resources.getString(R.string.progress_answers),
+            context.resources.getString(R.string.right_answers),
             countOfRightAnswers,
             gameSettings.minCountOfRightAnswers
         )
